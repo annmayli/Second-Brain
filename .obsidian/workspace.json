@@ -25,14 +25,14 @@
             "id": "8b5329797c993d85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "meld-encrypted-view",
               "state": {
-                "file": "COMP2402/Interfaces (Abstract Data Type).md",
+                "file": "Ideas/Personal Website.mdenc",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interfaces (Abstract Data Type)"
+              "title": "Personal Website"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP2402/Interfaces (Abstract Data Type).md",
+                "file": "Ideas/Personal Website.mdenc",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interfaces (Abstract Data Type)"
+              "title": "Backlinks for Personal Website"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP2402/Interfaces (Abstract Data Type).md",
+                "file": "Ideas/Personal Website.mdenc",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Interfaces (Abstract Data Type)"
+              "title": "Outgoing links from Personal Website"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP2402/Interfaces (Abstract Data Type).md",
+                "file": "Ideas/Personal Website.mdenc",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interfaces (Abstract Data Type)"
+              "title": "Outline of Personal Website"
             }
           },
           {
@@ -214,10 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303f6bccf3f1b8b0",
+  "active": "8b5329797c993d85",
   "lastOpenFiles": [
-    "Ideas/Personal Website.mdenc",
+    "Pasted image 20260425221050.png",
+    "Pasted image 20260425220544.png",
     "COMP2402/Interfaces (Abstract Data Type).md",
+    "Ideas/Personal Website.mdenc",
     "Ideas",
     "2026-04-25.md",
     "Untitled.canvas",
