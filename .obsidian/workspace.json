@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP2402/The Queue, Stack, and Deque Interfaces.md",
+                "file": "COMP2402/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Queue, Stack, and Deque Interfaces"
+              "title": "List"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP2402/The Queue, Stack, and Deque Interfaces.md",
+                "file": "COMP2402/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Queue, Stack, and Deque Interfaces"
+              "title": "Backlinks for List"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP2402/The Queue, Stack, and Deque Interfaces.md",
+                "file": "COMP2402/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Queue, Stack, and Deque Interfaces"
+              "title": "Outgoing links from List"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP2402/The Queue, Stack, and Deque Interfaces.md",
+                "file": "COMP2402/List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Queue, Stack, and Deque Interfaces"
+              "title": "Outline of List"
             }
           },
           {
@@ -244,8 +244,10 @@
   },
   "active": "7550b656452dc47c",
   "lastOpenFiles": [
-    "COMP2402/The Queue, Stack, and Deque Interfaces.md",
+    "COMP2402/Queue.md",
+    "COMP2402/List.md",
     "COMP2402/Interfaces (Abstract Data Type).md",
+    "COMP2402/The Queue, Stack, and Deque Interfaces.md",
     "Ideas/Personal Website.mdenc",
     "Ideas/Untitled.md",
     "Ideas/Tax software for filing personal taxes.md",
